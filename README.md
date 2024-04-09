@@ -1,4 +1,4 @@
-This repo contains code for the blog
+This repo used hugo to create a [blog](https://jayamuruganravikumar.github.io/theaverageroboticist/)
 
 ## OuickStart
 
@@ -22,3 +22,4 @@ To develope `hugo server -D`
 - Configure hugo.yaml for workflow
 - Commit and push
 - Go to actions to see the build and the published website
+
