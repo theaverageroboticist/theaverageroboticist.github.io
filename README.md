@@ -16,9 +16,9 @@ To develope `hugo server -D`
 
 ## Deployment 
 
-- Create a repo with `<website-name>.github.io`
-- Add the url to the .toml file
-- Change the branch to `main` and create a first commit for the repo
-- Add the repo as submodule to public `git submodule add <repo> public`
 - Run the hugo server
 - Execute `hugo -t PaperMod<themeName>` 
+- Change the source to github actions
+- Configure hugo.yaml for workflow
+- Commit and push
+- Go to actions to see the build and the published website
