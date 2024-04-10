@@ -23,3 +23,6 @@ To develope `hugo server -D`
 - Commit and push
 - Go to actions to see the build and the published website
 
+### Tags
+
+["linux, shell"]
