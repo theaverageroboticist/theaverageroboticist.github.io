@@ -2,18 +2,47 @@
 title = 'Linux Cheatsheet'
 date = 2024-04-09T21:43:58+02:00
 draft = true
+description= "Linux commands for begineers"
+tags= ["linux", "cheatsheet", "shell"]
+aliases= ["migrate-from-jekyl"]
+categories= ["linux", "cli"]
+series= ["Linux Begineers"]
+ShowToc= true
+TocOpen= true
 +++
 
-## File Management
+Use the `man <Command>` to get the manual page for the commands Ex,
+> man rm
 
-| Command                              | Description                                                                    |
-| ----                                 | ---                                                                            |
-| `ls -la`                             | *List all files/folders* present in the directory                            |
-| `pwd`                                | Obtain the path of *current working directory*                               |
-| `touch  <filename.extension>`        | *Create a file*                                                              |
-| `mkdir -p parentdirectory/directory` | *Create a folder* with all parent directories                                |
-| `rm <filename>`                      | *Remove a file*                                                              |
-| `rm -r <directory>`                   | *Remove a directory*, the files in the directory will be removed recursively |
+### File Management
+
+| Command                              | Description                                              |
+| ----                                 | ---                                                      |
+| `ls -la`                             | *List all files/folders* present in the directory        |
+| `pwd`                                | Obtain the path of *current working directory*           |
+| `cd <directory name>`                | Change to the directory name                             |
+| `touch  <filename.extension>`        | *Create a file*                                          |
+| `mkdir -p parentdirectory/directory` | *Create a folder* with all parent directories            |
+| `rm <filename>`                      | *Remove a file*                                          |
+| `rm -r <directory>`                  | *Remove a directory*, `-r` removes the files recursively |
+
+### Searching
+
+| Command                                                   | Description                                                                                   |
+| ----                                                      | ---                                                                                           |
+| `grep "<something>" filename`                             | Find "something" the file "filename"                                                          |
+| `grep -i "<something>" filename`                          | Making it case insensitive with `-i`                                                          |
+| `grep -ro <something> <path>/`                            | Search for something in path `-ro` makes it recursive showing only matched pairs              |
+| `find /path/to/folder/ -name *nameOrportion of the file*` | Find the file in the given path use `type f` for only files and `type d` for only directories |
+| `locate -i filename`                                      | `-i` to ignore case                                                                           |
+
+### Using Multiple Commands
+
+Using semicolon between commands `ls ; whoami ; pwd` will execute all the commands one by one.  
+The next commad will be executed even if the previous ones fail.
+
+Using the `&` operator 
+
 
 
 

@@ -2,3 +2,43 @@ baseURL = 'https://jayamuruganravikumar.github.io/theaverageroboticist/'
 languageCode = 'en-us'
 title = 'The Average Roboticist'
 theme = 'PaperMod'
+
+[params]
+defaultTheme = "auto"
+showReadingTime = true
+showShareButtons = true
+showToc = true
+#TocOpen = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
+author = ["Jay"]
+
+#Home page style
+#[params.homeInfoParams]
+#Title = "Hi there wave"
+#Content = "Can be Info, links, about..."
+#
+#[[params.socialIcons]]
+#name = "<platform>"
+#url = "<link>"
+#
+#[[params.socialIcons]]
+#name = "<platform 2>"
+#url = "<link2>"
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1_000
+threshold = 0.4
+minMatchCharLength = 0
+keys = [ "title", "permalink", "summary", "content" ]
+
+
+
