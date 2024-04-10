@@ -1,7 +1,7 @@
 +++
 title = 'Linux Cheatsheet'
 date = 2024-04-09T21:43:58+02:00
-draft = true
+draft = false
 description= "Linux commands for begineers"
 tags= ["linux", "cheatsheet", "shell"]
 aliases= ["migrate-from-jekyl"]
