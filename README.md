@@ -26,3 +26,5 @@ To develope `hugo server -D`
 ### Tags
 
 ["linux, shell"]
+
+Confuguration of .toml file [PaperMod](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode)
