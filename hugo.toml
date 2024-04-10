@@ -28,8 +28,8 @@ author = ["Jay"]
 #url = "<link2>"
 
 
-[outputs]
-home = [ "HTML", "RSS", "JSON" ]
+#[outputs]
+#home = [ "HTML", "RSS", "JSON" ]
 
 [params.fuseOpts]
 isCaseSensitive = false
