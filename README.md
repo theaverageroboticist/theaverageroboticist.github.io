@@ -28,3 +28,5 @@ To develope `hugo server -D`
 ["linux, shell"]
 
 Confuguration of .toml file [PaperMod](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode)
+
+Change `submodule : true ` in workflow yaml
