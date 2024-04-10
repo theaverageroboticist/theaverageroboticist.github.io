@@ -2,41 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:42069/theaverageroboticist/posts/gui-with-docker/</loc>
+    <loc>https://jayamuruganravikumar.github.io/theaverageroboticist/posts/</loc>
     <lastmod>2024-04-10T18:24:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:42069/theaverageroboticist/posts/</loc>
+    <loc>https://jayamuruganravikumar.github.io/theaverageroboticist/</loc>
     <lastmod>2024-04-10T18:24:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:42069/theaverageroboticist/</loc>
-    <lastmod>2024-04-10T18:24:16+02:00</lastmod>
+    <loc>https://jayamuruganravikumar.github.io/theaverageroboticist/archives/</loc>
   </url><url>
-    <loc>http://localhost:42069/theaverageroboticist/categories/</loc>
-    <lastmod>2024-04-09T21:43:58+02:00</lastmod>
+    <loc>https://jayamuruganravikumar.github.io/theaverageroboticist/categories/</loc>
   </url><url>
-    <loc>http://localhost:42069/theaverageroboticist/tags/cheatsheet/</loc>
-    <lastmod>2024-04-09T21:43:58+02:00</lastmod>
+    <loc>https://jayamuruganravikumar.github.io/theaverageroboticist/search/</loc>
   </url><url>
-    <loc>http://localhost:42069/theaverageroboticist/tags/linux/</loc>
-    <lastmod>2024-04-09T21:43:58+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:42069/theaverageroboticist/posts/linux-cheatsheet/</loc>
-    <lastmod>2024-04-09T21:43:58+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:42069/theaverageroboticist/tags/shell/</loc>
-    <lastmod>2024-04-09T21:43:58+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:42069/theaverageroboticist/categories/syntax/</loc>
-    <lastmod>2024-04-09T21:43:58+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:42069/theaverageroboticist/tags/</loc>
-    <lastmod>2024-04-09T21:43:58+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:42069/theaverageroboticist/categories/themes/</loc>
-    <lastmod>2024-04-09T21:43:58+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:42069/theaverageroboticist/archives/</loc>
-  </url><url>
-    <loc>http://localhost:42069/theaverageroboticist/search/</loc>
+    <loc>https://jayamuruganravikumar.github.io/theaverageroboticist/tags/</loc>
   </url>
 </urlset>
