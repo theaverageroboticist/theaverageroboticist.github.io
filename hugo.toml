@@ -12,13 +12,13 @@ showToc = true
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
-author = ["Jay"]
+author = ["Jay", "Kalai"]
 
 #Home page style
-#[params.homeInfoParams]
-#Title = "Hi there wave"
-#Content = "Can be Info, links, about..."
-#
+[params.homeInfoParams]
+Title = "Hi there wave"
+Content = "Can be Info, links, about..."
+
 #[[params.socialIcons]]
 #name = "<platform>"
 #url = "<link>"

@@ -41,9 +41,16 @@ Use the `man <Command>` to get the manual page for the commands Ex,
 Using semicolon between commands `ls ; whoami ; pwd` will execute all the commands one by one.  
 The next commad will be executed even if the previous ones fail.
 
-Using the `&` operator 
+Using the `&` operator will execute the next commad if only the previous one suceeds.  
+`mkdir folder && cd folder` will create and cd to the folder but the other way arround will  
+not work since there will be no directory to change.
 
+Using the `||` operator will execute the next commad if the previous one fails.
+`cd folder || mkdir folder` if there id no folder then this commad will make a new one.
 
+Using the `|` piping operator will redirect the first commands output to the second one.
+`ls -la | grep -i <something>` the grep commad will Search for something from the output
+of ls.
 
 
 

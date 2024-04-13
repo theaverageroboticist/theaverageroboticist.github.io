@@ -1,4 +1,9 @@
-This repo used hugo to create a [blog](https://jayamuruganravikumar.github.io/theaverageroboticist/)
+This repo uses hugo to create a [blog](https://jayamuruganravikumar.github.io/theaverageroboticist/)
+
+Navigate to `content/posts/` and the specific file to edit the content
+
+## Edit Content
+
 
 ## OuickStart
 
