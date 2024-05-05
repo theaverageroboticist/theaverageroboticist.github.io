@@ -6,8 +6,15 @@
     <description>Recent content on The Average Roboticist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2024 18:24:16 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 09:44:46 +0200</lastBuildDate>
     <atom:link href="https://theaverageroboticist.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pacman Commands</title>
+      <link>https://theaverageroboticist.github.io/posts/pacman-commands/</link>
+      <pubDate>Thu, 18 Apr 2024 09:44:46 +0200</pubDate>
+      <guid>https://theaverageroboticist.github.io/posts/pacman-commands/</guid>
+      <description>Basics Command Description pacman -S &amp;lt;package name&amp;gt; Install a package pacman -R &amp;lt;package name&amp;gt; Remove a package but keep the dependencies pacman -Rs &amp;lt;package name&amp;gt; Remove a package and dependencies(not used by other packages) pacman -Rus &amp;lt;package name&amp;gt; Remove a package with all the packages that depend on it pacman -Rn &amp;lt;package name&amp;gt; Removes the package and its configuration files pacman -Syy Update Package list pacman -Syu Upgrade all the packages Package Info Command Description pacman -Ss &amp;lt;package name&amp;gt; Search for a package in the pacman database pacman -Si &amp;lt;package name&amp;gt; Display information of the package pacman -Qs &amp;lt;package name&amp;gt; Search for a installed package pacman -Qi &amp;lt;package name&amp;gt; Display information of a installed package pacman -Ql &amp;lt;package name&amp;gt; Retrive all the files installed by the package pacman -Qk &amp;lt;package name&amp;gt; Verify if the files installed are present pacman -Qdt List all packages no longer required as dependencies pacman -Sc Remove all the cached packages pacman -Sw &amp;lt;package name&amp;gt; Download a package without installing pacman -U package To install a package from local repo </description>
+    </item>
     <item>
       <title>Gui With Docker</title>
       <link>https://theaverageroboticist.github.io/posts/gui-with-docker/</link>
