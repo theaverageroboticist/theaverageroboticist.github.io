@@ -35,3 +35,5 @@ deb [arch=arm64] https://packages.microsoft.com/ubuntu/18.04/multiarch/prod bion
 - Launch with `ros2 launch azure_kinect_ros_driver driver.launch.py`
 - Open `rviz2` in another terminal to view the topics that are published.
 - Refer the [usage guide](https://github.com/microsoft/Azure_Kinect_ROS_Driver/blob/foxy-devel/docs/usage.md) for configuration.
+
+## Setting up nvidia docker
