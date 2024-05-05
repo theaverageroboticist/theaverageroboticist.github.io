@@ -1,4 +1,4 @@
-This repo uses hugo to create a [blog](https://theaverageroboticist.github.io/)
+This repo uses hugo to create a [blog](https://theaverageroboticist.github.io)
 
 Navigate to `content/posts/` and the specific file to edit the content
 
