@@ -6,8 +6,15 @@
     <description>Recent content in Posts on The Average Roboticist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Apr 2024 09:44:46 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 23:22:20 +0200</lastBuildDate>
     <atom:link href="https://theaverageroboticist.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Reconstruction of Planetary surfaces</title>
+      <link>https://theaverageroboticist.github.io/posts/3d-reconstruction/</link>
+      <pubDate>Fri, 19 Apr 2024 23:22:20 +0200</pubDate>
+      <guid>https://theaverageroboticist.github.io/posts/3d-reconstruction/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Pacman Commands</title>
       <link>https://theaverageroboticist.github.io/posts/pacman-commands/</link>
