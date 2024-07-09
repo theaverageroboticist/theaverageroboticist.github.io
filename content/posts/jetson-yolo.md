@@ -1,7 +1,7 @@
 +++
 title = 'Jetson Yolo'
 date = 2024-04-23T20:15:02+02:00
-draft = false
+draft = true
 +++
 
 ## Setting up Azure Kinect with Jetson
@@ -36,4 +36,3 @@ deb [arch=arm64] https://packages.microsoft.com/ubuntu/18.04/multiarch/prod bion
 - Open `rviz2` in another terminal to view the topics that are published.
 - Refer the [usage guide](https://github.com/microsoft/Azure_Kinect_ROS_Driver/blob/foxy-devel/docs/usage.md) for configuration.
 
-## Setting up nvidia docker

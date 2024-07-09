@@ -6,16 +6,8 @@
     <description>Recent content on The Average Roboticist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Apr 2024 20:15:02 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 09:44:46 +0200</lastBuildDate>
     <atom:link href="https://theaverageroboticist.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jetson Yolo</title>
-      <link>https://theaverageroboticist.github.io/posts/jetson-yolo/</link>
-      <pubDate>Tue, 23 Apr 2024 20:15:02 +0200</pubDate>
-      <guid>https://theaverageroboticist.github.io/posts/jetson-yolo/</guid>
-      <description>Setting up Azure Kinect with Jetson Asumming that you have ubuntu 20 running on your jetson. Unfotunately at the time of writhing this the SDK is not available for ubuntu 20, but the SDK for 18 can be made to work on 20.
-First download the repo config package with curl -sSL -O https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb. Install the config package sudo dpkg -i packages-microsoft-prod.deb. Delete it after installation rm packages-microsoft-prod.deb. Open the file etc/apt/sources.</description>
-    </item>
     <item>
       <title>Pacman Commands</title>
       <link>https://theaverageroboticist.github.io/posts/pacman-commands/</link>
